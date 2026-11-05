@@ -76,6 +76,9 @@ The exercises were completed using the NetworkWalks Wireshark lab material:
 
 This repository is a personal learning record. NetworkWalks owns its original lab content and branding. The screenshots are included to document the completed exercise results.
 
+## Linkedin: https://linkedin.com/in/tahakhanawan
+## Github:https://github.com/tahakhan0301
+
 ## Responsible-use note
 
 All packet-analysis practice should be performed only on supplied lab captures, systems you own, or networks for which you have explicit authorization. Do not inspect or capture traffic on networks without permission.
